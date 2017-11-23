@@ -1,2 +1,6 @@
 log.txt
+<<<<<<< HEAD
 /dir2/app2.js
+=======
+/dir2
+>>>>>>> login
